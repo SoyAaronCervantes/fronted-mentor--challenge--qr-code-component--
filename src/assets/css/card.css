@@ -1,0 +1,19 @@
+.card {
+  align-items: center;
+  justify-content: center;
+  width: 20rem;
+  padding: 1rem;
+  background-color: #fff;
+  border-radius: var(--generic-size);
+  gap: 2rem;
+  box-shadow: 3px 0.5rem 1rem #d3dbe3, 5px 1rem 1rem #c4d1e1;
+}
+
+.card--content {
+  padding-inline: 1rem;
+}
+
+.qr--code {
+  width: inherit;
+  border-radius: calc( var(--generic-size) / 2 );
+}

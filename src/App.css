@@ -1,6 +1,8 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
-}
+@import "assets/css/body.css";
+
+@import "assets/css/page.layout.css";
+@import "assets/css/flex.layout.css";
+
+@import "assets/css/card.css";
+@import "assets/css/titles.css";
+@import "assets/css/paragraph.css";
