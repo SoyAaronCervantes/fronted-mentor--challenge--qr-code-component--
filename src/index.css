@@ -1,0 +1,11 @@
+:root {
+  --background-color: hsl(212, 45%, 89%);
+  --color: hsl(220, 15%, 55%);
+  --bold-color: hsl(218, 44%, 22%);
+
+  font-family: Outfit, sans-serif;
+  font-size: 15px;
+
+  color: var(--color);
+  background-color: var(--background-color);
+}
